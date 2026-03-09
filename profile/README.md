@@ -10,8 +10,6 @@
 
 ---
 
-**Backed by [a16z](https://a16z.com/) Speedrun | $3M Pre-Seed | Founded 2025**
-
 </div>
 
 ## What We Build

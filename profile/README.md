@@ -23,8 +23,6 @@ AI search is replacing traditional search. When users ask ChatGPT, Claude, Gemin
 | Repository | Description | |
 |:---|:---|:---|
 | **[voyage-geo-agent](https://github.com/onvoyage-ai/voyage-geo-agent)** | Agentic GEO — autonomous optimization of your AI search presence across LLMs | ![Stars](https://img.shields.io/github/stars/onvoyage-ai/voyage-geo-agent?style=flat-square) |
-| **[v402](https://github.com/onvoyage-ai/v402)** | Internet-native payment framework for AI, built on the x402 protocol | ![Stars](https://img.shields.io/github/stars/onvoyage-ai/v402?style=flat-square) |
-| **[v402-web](https://github.com/onvoyage-ai/v402-web)** | Web interface for v402 merchant integration | ![Stars](https://img.shields.io/github/stars/onvoyage-ai/v402-web?style=flat-square) |
 | **[gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills)** | Claude Code skills for AI Engine Optimization and GEO | ![Stars](https://img.shields.io/github/stars/onvoyage-ai/gtm-engineer-skills?style=flat-square) |
 
 ## How It Works
